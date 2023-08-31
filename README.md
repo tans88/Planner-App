@@ -13,7 +13,7 @@ After downloading, if the executable will not open, navigate to your terminal an
 3. Provide Execution Permissions (If Needed): If you encounter a "Permission denied" error, you might need to provide execution permissions to the file. You can do this using the chmod command:                                                                                                                                                                                  
 chmod +x Planner.App.macOS
 4. Run the Executable Again: After setting the execution permissions, you can try running the executable again using the previous command (refer to step 2)                                
-NOTE: You may have to run the executable two or three times before it opens up.
+NOTE: You may have to run the executable two or three times before it opens up.                                                                                                            
 NOTE: If the file says that it still cannot be opened, try going to the file using file explorer, right click on the file, select "Open." This should cause a popup to appear that says "Open." Click on this and it should open up. 
 
 For Windows users:                                                                                                                                                                         

@@ -14,6 +14,7 @@ After downloading, if the executable will not open, navigate to your terminal an
 chmod +x Planner.App.macOS
 4. Run the Executable Again: After setting the execution permissions, you can try running the executable again using the previous command (refer to step 2)                                
 NOTE: You may have to run the executable two or three times before it opens up.
+NOTE: If the file says that it still cannot be opened, try going to the file using file explorer, right click on the file, select "Open." This should cause a popup to appear that says "Open." Click on this and it should open up. 
 
 For Windows users:                                                                                                                                                                         
 If you are experiencing issues opening up the executable file (though this may not be an issue as Windows devices don't have the same level of security restrictions as macOS devices) use these terminal commands:                                                                                             
